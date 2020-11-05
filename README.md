@@ -1,3 +1,7 @@
+## Updata by YongjingLi
+1. add sort_yolov5_trt.py in ./, to deploy det tracker by tensorrt
+2. add detector_yolov5_trt.py in ./, to deploy det
+
 SORT
 =====
 
